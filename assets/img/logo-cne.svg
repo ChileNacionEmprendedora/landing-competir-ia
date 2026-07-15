@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 310 72" role="img" aria-label="Chile Nación Emprendedora">
-  <g fill="#FFB600">
-    <path d="M0 0 H66 V12 H12 V72 H0 Z"/>
-    <path d="M15 16 H66 V28 H27 V72 H15 Z"/>
-    <path d="M30 32 H66 V44 H42 V72 H30 Z"/>
-  </g>
-  <text x="82" y="58" font-family="Inter, sans-serif" font-weight="800" font-size="60" fill="#051C2C">CNE</text>
-  <text x="258" y="58" font-family="Inter, sans-serif" font-weight="700" font-size="17" fill="#FFB600">CL</text>
-</svg>
